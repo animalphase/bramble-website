@@ -1,0 +1,26 @@
+html {
+  font-size: 0.625rem; /* 10px equivalent thanks to default of 16px */
+  // font-family: 'Source Sans Pro', 'Helvetica Neue', Helveitca, sans-serif;
+  font-family: 'Montserrat', 'Helvetica Neue', Helveitca, sans-serif;
+  // background: $color-primary;
+  // color: $color-background;
+  background: #fff;
+  color: #5a5660;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  font-size: 1.6rem; /* 16px equivalent */
+  padding: 0 4rem;
+}
+
+a {
+  color: #ab80f1;
+  text-decoration: none;
+  transition: .35s ease all;
+}
+
+a:hover {
+  color: #3de6ae;
+  transition: .1s ease all;
+}

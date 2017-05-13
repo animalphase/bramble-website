@@ -1,0 +1,29 @@
+<!--?xml version="1.0" encoding="utf-8"?-->
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="636.249px" height="627.794px" viewBox="0 0 636.249 627.794" enable-background="new 0 0 636.249 627.794" xml:space="preserve">
+<g>
+	<path id="path1" fill="none" stroke="#ab80f1" stroke-width="8" stroke-miterlimit="10" d="M466.374,318.752L466.374,318.752
+		c-38.965,0-75.564-15.168-103.118-42.583c-56.917-57.056-56.917-149.597,0-206.653c39.521-39.521,92.194-61.23,148.206-61.23
+		c31.102,0,62.274,6.958,90.245,20.178c1.948,0.974,3.688,2.227,5.219,3.757s2.853,3.34,3.757,5.288
+		c37.991,80.156,21.5,176.038-41.052,238.521C542.077,303.584,505.408,318.752,466.374,318.752z M511.461,43.911
+		c-46.479,0-90.176,18.091-123.018,50.933c-43.07,43-43.07,112.998,0,155.999c20.804,20.874,48.497,32.285,77.93,32.285l0,0
+		c29.502,0,57.195-11.411,78.069-32.285c50.515-50.515,64.849-127.192,36.53-192.598C559.193,48.781,535.258,43.911,511.461,43.911z
+		" class="WkBnEIie_0"></path>
+</g>
+<path fill="none" stroke="#ab80f1" stroke-width="8" stroke-miterlimit="10" d="M477.993,561.726L286.254,369.954l57.287-57.232
+	c6.958-6.958,6.958-18.23,0-25.188s-18.23-7.097-25.188-0.139l-57.354,57.299L69.21,152.873c-13.916-13.916-36.46-13.916-50.376,0
+	s-13.916,36.46,0,50.376l408.783,408.853c6.958,6.958,16.073,10.437,25.188,10.437s18.23-3.479,25.188-10.437
+	C491.909,598.186,491.909,575.642,477.993,561.726z" class="WkBnEIie_1"></path>
+<g>
+	<path fill="none" stroke="#ab80f1" stroke-width="8" stroke-miterlimit="10" d="M430.331,218.418
+		c-4.592,0-9.115-1.809-12.594-5.288c-6.958-6.958-6.958-18.23,0-25.188l82.592-82.522c7.028-6.958,18.3-6.819,25.188,0.139
+		c6.958,6.958,6.958,18.23,0,25.188l-82.592,82.522C439.446,216.748,434.854,218.418,430.331,218.418z" class="WkBnEIie_2"></path>
+</g>
+<style>
+	.WkBnEIie_0{stroke-dasharray:1751 1753;stroke-dashoffset:1752;animation:WkBnEIie_draw 1500ms ease 0ms forwards;}.WkBnEIie_1{stroke-dasharray:1563 1565;stroke-dashoffset:1564;animation:WkBnEIie_draw 1500ms ease 0ms forwards;}.WkBnEIie_2{stroke-dasharray:346 348;stroke-dashoffset:347;animation:WkBnEIie_draw 1500ms ease 0ms forwards;}@keyframes WkBnEIie_draw{100%{stroke-dashoffset:0;}}@keyframes WkBnEIie_fade{0%{stroke-opacity:1;}92.98245614035088%{stroke-opacity:1;}100%{stroke-opacity:0;}}
+	path {
+    /*fill: rgba(255,255,255,.1);*/
+		stroke-width: 10;
+  }
+</style>
+</svg>

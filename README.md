@@ -1,6 +1,6 @@
 # Bramble website
 
-### Website for the  [Bramble](https://github.com/animalphase/bramble) project.
+### Website for the  [Bramble](https://github.com/animalphase/bramble) project
 
 ---
 

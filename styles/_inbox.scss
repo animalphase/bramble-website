@@ -34,15 +34,20 @@
 .btn-link {
   display: block;
   width: 100%;
+  margin: 2rem 0;
   padding: 2rem;
   border-radius: 20rem;
-  background: #ab80f1;
   text-align: center;
-  color: #fff;
+  // background: #ab80f1;
+  // color: #fff;
+  border: 3px solid #ab80f1;
+  color: #ab80f1;
 
   &:hover {
-    color: #fff;
-    background: #3de6ae;
+    // color: #fff;
+    // background: #3de6ae;
+    border-color: #3de6ae;
+    color: #40c79a;
   }
 
   &:active {
@@ -55,4 +60,47 @@
 .page-footer {
   margin-top: 6rem;
   padding-bottom: 6rem;
+}
+
+
+@media only screen and (max-width: 730px) {
+  .header-box {
+    margin-bottom: 6rem;
+  }
+
+  .bramble-logo {
+    position: absolute;
+    width: 70%;
+    left: -30%;
+    top: -4rem;
+  }
+
+  .site-heading {
+    // padding: 0;
+  }
+
+  .site-byline {
+  }
+}
+
+@media only screen and (max-width: 575px) {
+  .header-box {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+  }
+
+  .bramble-logo {
+    position: relative;
+    width: 65%;
+    left: -25%;
+    top: 0;
+  }
+
+  .site-heading {
+    padding: 0;
+    font-size: 6.5rem;
+  }
+
+  .site-byline {
+  }
 }

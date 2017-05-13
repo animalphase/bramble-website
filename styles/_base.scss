@@ -7,6 +7,10 @@ html {
   background: #fff;
   color: #5a5660;
   text-rendering: optimizeLegibility;
+  box-sizing: border-box;
+  * {
+    box-sizing: border-box;
+  }
 }
 
 body {

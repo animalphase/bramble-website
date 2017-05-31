@@ -8,6 +8,8 @@
 
 **⭐️ live url: http://animalphase.com/bramble/ ⭐️**
 
+> a preview build of Bramble is available at https://github.com/animalphase/bramble/releases/tag/0.0.1-preview
+
 ---
 
 animated svg made [vivus](https://maxwellito.github.io/vivus-instant/)

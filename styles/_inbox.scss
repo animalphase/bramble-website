@@ -38,22 +38,37 @@
   padding: 2rem;
   border-radius: 20rem;
   text-align: center;
-  // background: #ab80f1;
-  // color: #fff;
-  border: 3px solid #ab80f1;
-  color: #ab80f1;
+  border: 3px solid $color-primary;
+  color: $color-primary;
 
   &:hover {
-    // color: #fff;
-    // background: #3de6ae;
-    border-color: #3de6ae;
-    color: #40c79a;
+    border-color: $color-accent;
+    color: $color-link-hover;
   }
 
   &:active {
     transform: translateY(.3rem);
-    transition: 0;
+    transition: 0s;
   }
+
+  &.release {
+    border: none;
+    background: $color-link;
+    color: $color-white;
+
+    &:hover {
+      background: $color-link-hover;
+    }
+  }
+}
+
+
+img.full {
+  display: block;
+  width: 100%;
+  margin: 6rem 0;
+  border-radius: 2rem;
+  overflow: hidden;
 }
 
 
@@ -99,6 +114,11 @@
   .site-heading {
     padding: 0;
     font-size: 6.5rem;
+  }
+
+  img.full {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
   }
 
   .site-byline {

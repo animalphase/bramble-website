@@ -4,7 +4,7 @@
 
 ---
 
-⚒ Bramble is a tool for authoring interactive fiction for export for the web, or an IF/dialog editor to output or data for use in other systems.
+🌱 ⚒ Bramble is a tool to author interactive fiction for export to the web, or for outputting data to use in other systems.
 
 **⭐️ live url: http://animalphase.com/bramble/ ⭐️**
 
